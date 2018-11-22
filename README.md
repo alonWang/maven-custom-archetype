@@ -20,3 +20,4 @@ this project demonstrate how to use custom archetype  to generate new project or
 
 2. use idea
 
+![demonstrate](https://github.com/alonWang/maven-custom-archetype/blob/master/demonstrate.gif)
